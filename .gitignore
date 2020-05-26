@@ -1,0 +1,5 @@
+/vendor/
+/.env
+/.php_cs.cache
+error_log
+/whm_ip_reporter.sqlite
